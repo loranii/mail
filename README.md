@@ -7,4 +7,5 @@ Receiving, sending and archiving emails
 This application was designed based on Python and Javascript, and we see the magic of Javascript and its impact on Front-End.
 
 Link to the explanation on YouTube:
-https://studio.youtube.com/video/JWaB4kl72bU/edit
+https://www.youtube.com/watch?v=JWaB4kl72bU
+
